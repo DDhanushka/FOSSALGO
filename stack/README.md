@@ -8,3 +8,4 @@ Need a contributor to complete this documentation
 
 - **Documentation** - 
 - **Python** - [Sandun Prasanganath](https://github.com/prasanganath)
+- **C++** - [Dimuthu Dhanushka](https://github.com/ddhanushka)
